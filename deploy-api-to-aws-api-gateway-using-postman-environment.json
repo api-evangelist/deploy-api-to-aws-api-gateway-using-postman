@@ -1,0 +1,164 @@
+{
+	"id": "005b52a2-c6b5-4412-bb71-50cd35442cf9",
+	"name": "Deploy API To AWS API Gateway",
+	"values": [
+		{
+			"key": "postman_api_key",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "postman_base_url",
+			"value": "https://api.getpostman.com",
+			"enabled": true
+		},
+		{
+			"key": "postman_echo_url",
+			"value": "https://postman-echo.com",
+			"enabled": true
+		},
+		{
+			"key": "aws_api_gateway_control_plane_region",
+			"value": "us-east-1",
+			"enabled": true
+		},
+		{
+			"key": "aws_api_gateway_base_url",
+			"value": "https://apigateway.us-east-1.amazonaws.com",
+			"enabled": true
+		},
+		{
+			"key": "accessKey",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "secretKey",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "aws_api_gateway_control_plane_service",
+			"value": "apigateway",
+			"enabled": true
+		},
+		{
+			"key": "aws_api_gateway_api_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "aws_api_gateway_resource_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "aws_dynamodb_base_url",
+			"value": "https://dynamodb.us-east-1.amazonaws.com",
+			"enabled": true
+		},
+		{
+			"key": "aws_dynamodb_region",
+			"value": "us-east-1",
+			"enabled": true
+		},
+		{
+			"key": "aws_dynamodb_service",
+			"value": "dynamodb",
+			"enabled": true
+		},
+		{
+			"key": "aws_api_gateway_deployment_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "aws_api_gateway_usage_plan_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "postman_api_description",
+			"value": null,
+			"enabled": true
+		},
+		{
+			"key": "postman_api_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "postman_api_name",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "postman_api_version_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "postman_api_version_name",
+			"value": "Draft",
+			"enabled": true
+		},
+		{
+			"key": "postman_schema_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "aws_dynamodb_table_name",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "openapi_build",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "aws_iam_role",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "openapi_current",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "aws_dynamodb_table_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "aws_api_gateway_stage_name",
+			"value": "development",
+			"enabled": true
+		},
+		{
+			"key": "aws_api_gateway_stage_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "aws_api_gateway_invoke_url",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "aws_api_gateway_invoke_subdomain_url",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "aws_api_gateway_key",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2020-01-09T04:21:16.904Z",
+	"_postman_exported_using": "Postman/7.14.0"
+}
